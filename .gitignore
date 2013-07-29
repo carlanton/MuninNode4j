@@ -1,0 +1,6 @@
+*.iml
+*.DS_Store
+*.un~
+
+MuninNode4j-core/target
+MuninNode4j-examples/target
